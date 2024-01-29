@@ -2246,7 +2246,7 @@ button6.grid(row=10,column=0,sticky='W',padx=50,pady=4)
 def About():
     tk.messagebox.showinfo("About", 
                            'This software is written by'+
-                           '  "Seyed Abdolvahab Taghavi (s.av.taghavi@gmail.com)".'+'\nIt plots windrose'+
+                           '  "Seyed Abdolvahab Taghavi (abdolvahab.taghavi@gmail.com)".'+'\nIt plots windrose'+
                            ' of data.')
 
 
